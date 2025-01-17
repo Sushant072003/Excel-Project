@@ -1,6 +1,6 @@
 # IPL Analysis
 
-
+-----
 **About the Dataset**
 
 The IPL (Indian Premier League) is one of the most popular cricket tournaments, with players from all over the world. Each season is filled with exciting moments and intense competition.
@@ -13,9 +13,9 @@ This dataset contains details of IPL matches from 2008 to 2024. It includes:
   - Match result, winning team, and victory margin (runs or wickets).
   - Player of the Match award winner.
   - Names of the two umpires.
-  - 
 This data helps analyze IPL trends, team performances, and player contributions.
 
+------
 **Dashboard Description**
 
 The dashboard I created visualizes key IPL insights. It shows:
@@ -26,6 +26,7 @@ The dashboard I created visualizes key IPL insights. It shows:
   - IPL title winners over the years.
   - Top 10 players with the most Man of the Match awards.
 
+------
 **Skills Learned/Practice from this Project:**
 - How to make MIS dashboard in Excel
 - How to prepare the data before dashboard building
