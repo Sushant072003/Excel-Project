@@ -12,9 +12,9 @@ This project involves analyzing hotel booking and cancellation data to understan
 
   - Total Bookings and Cancellations: The dashboard provides an overall summary of total bookings and cancellations, giving a clear picture of the cancellation rate.
 
-<h2>What I Learned from This Project:</h2>
-  - How to clean and process a dataset to extract meaningful insights.
-  - Using Excel features like slicers, charts, and visualizations to create an interactive dashboard.
-  - Identifying trends and patterns through data visualization.
-  - Analyzing factors contributing to cancellations and understanding their impact on hotel operations.
-  - Developing better problem-solving skills in data analysis and decision-making.
+<h2>What I Learned from This Project:</h2>  
+  -  How to clean and process a dataset to extract meaningful insights.  
+  -  Using Excel features like slicers, charts, and visualizations to create an interactive dashboard.  
+  -  Identifying trends and patterns through data visualization.  
+  -  Analyzing factors contributing to cancellations and understanding their impact on hotel operations.  
+  -  Developing better problem-solving skills in data analysis and decision-making.  
