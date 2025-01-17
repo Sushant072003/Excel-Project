@@ -1,5 +1,5 @@
 # Hotel Booking Cancellation
------
+
 This project involves analyzing hotel booking and cancellation data to understand patterns and reasons behind cancellations. The analysis focuses on several key aspects:
 
   - Booking Type: The data distinguishes between two hotel types—City Hotel and Resort Hotel. It shows the total bookings and cancellations for each type, helping identify where cancellations occur more frequently.
